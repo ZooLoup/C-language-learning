@@ -1,0 +1,4 @@
+﻿  2023-5-15.c
+D:\Program Files\C project\初始C语言28\初始C语言28\2023-5-15.c(103,21): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\Program Files\C project\初始C语言28\初始C语言28\2023-5-15.c(127,9): warning C4013: “strcmp”未定义；假设外部返回 int
+  初始C语言28.vcxproj -> D:\Program Files\C project\初始C语言28\x64\Debug\初始C语言28.exe
