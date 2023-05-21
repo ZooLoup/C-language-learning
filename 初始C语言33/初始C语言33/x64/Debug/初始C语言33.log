@@ -1,0 +1,4 @@
+﻿  2023-5-21.c
+D:\Program Files\C project\初始C语言33\初始C语言33\2023-5-21.c(130,50): warning C4474: printf: 格式字符串中传递的参数太多
+D:\Program Files\C project\初始C语言33\初始C语言33\2023-5-21.c(130,50): message : 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+  初始C语言33.vcxproj -> D:\Program Files\C project\初始C语言33\x64\Debug\初始C语言33.exe
