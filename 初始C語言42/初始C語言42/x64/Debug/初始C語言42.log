@@ -1,0 +1,4 @@
+﻿  2023-6-3.c
+D:\Program Files\C project\初始C語言42\初始C語言42\2023-6-3.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Program Files\C project\初始C語言42\初始C語言42\2023-6-3.c(45,9): message : 请考虑在格式字符串中使用“%zd”
+  初始C語言42.vcxproj -> D:\Program Files\C project\初始C語言42\x64\Debug\初始C語言42.exe
