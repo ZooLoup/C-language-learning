@@ -1,0 +1,16 @@
+﻿  contact.c
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(4,2): warning C4013: “printf”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(16,24): error C2065: “MAX”: 未声明的标识符
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(16,21): error C2057: 应输入常量表达式
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(16,24): error C2466: 不能分配常量大小为 0 的数组
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(16,17): error C2079: “con”使用未定义的 struct“PenInfo”
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(18,2): warning C4013: “InitContact”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(23,3): warning C4013: “scanf”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(27,4): warning C4013: “AddContact”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(36,4): warning C4013: “ShowContact”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\contact.c(47,11): error C2059: 语法错误:“)”
+  test.c
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(6,2): warning C4013: “memset”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(14,3): warning C4013: “printf”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(19,3): warning C4013: “scanf”未定义；假设外部返回 int
+  正在生成代码...
