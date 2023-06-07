@@ -1,0 +1,12 @@
+﻿  contact.c
+  test.c
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(21,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(46,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(46,11): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(46,11): message : 缺失的可变参数 1 为格式字符串“%-20s”所需
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(49,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(49,12): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\初始C语言44\初始C语言44\test.c(49,12): message : 缺失的可变参数 1 为格式字符串“%-20s”所需
+  正在生成代码...
+contact.obj : error LNK2019: 无法解析的外部符号 InitContact，函数 main 中引用了该符号
+D:\Program Files\C project\初始C语言44\x64\Debug\初始C语言44.exe : fatal error LNK1120: 1 个无法解析的外部命令
