@@ -1,0 +1,5 @@
+﻿  2023-6-9.c
+D:\Program Files\C project\初始C语言46\初始C语言46\2023-6-9.c(82,17): warning C4013: “malloc”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言46\初始C语言46\2023-6-9.c(82,40): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+D:\Program Files\C project\初始C语言46\初始C语言46\2023-6-9.c(95,2): warning C4013: “free”未定义；假设外部返回 int
+  初始C语言46.vcxproj -> D:\Program Files\C project\初始C语言46\x64\Debug\初始C语言46.exe
