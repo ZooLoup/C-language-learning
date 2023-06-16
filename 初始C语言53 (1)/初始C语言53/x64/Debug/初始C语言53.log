@@ -1,0 +1,32 @@
+﻿  contact.c
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(6,47): error C2100: 非法的间接寻址
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(12,27): error C2059: 语法错误:“;”
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(26,3): warning C4013: “CheckCapacity”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(35,6): error C2371: “CheckCapacity”: 重定义；不同的基类型
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(60,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(105,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(105,11): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(105,11): message : 缺失的可变参数 1 为格式字符串“%-20s”所需
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(108,12): warning C4477: “printf”: 格式字符串“%-4d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(108,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 2 冲突
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(108,12): warning C4778: “printf”: 格式字符串“%-20\t”未终止
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(113,17): warning C4474: printf: 格式字符串中传递的参数太多
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(113,17): message : 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(139,8): warning C4013: “FindByname”未定义；假设外部返回 int
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(174,36): warning C4028: 形参 1 与声明不同
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(187,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(187,10): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(187,10): message : 缺失的可变参数 1 为格式字符串“%-20s”所需
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(188,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(188,10): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(188,10): message : 缺失的可变参数 1 为格式字符串“%-20s”所需
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(213,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(230,30): warning C4028: 形参 1 与声明不同
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(248,3): error C2198: “fwrite”: 用于调用的参数太少
+D:\Program Files\C project\初始C语言53\初始C语言53\contact.c(248,54): error C2059: 语法错误:“)”
+  test.c
+D:\Program Files\C project\初始C语言53\初始C语言53\test.c(45,23): warning C4133: “函数”: 从“Contact *”到“contact *”的类型不兼容
+D:\Program Files\C project\初始C语言53\初始C语言53\test.c(48,12): error C2065: “SAVE”: 未声明的标识符
+D:\Program Files\C project\初始C语言53\初始C语言53\test.c(49,4): error C2198: “SaveContact”: 用于调用的参数太少
+D:\Program Files\C project\初始C语言53\初始C语言53\test.c(48,3): error C2051: case 表达式不是常量
+  正在生成代码...
