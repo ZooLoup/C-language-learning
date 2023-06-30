@@ -1,0 +1,7 @@
+﻿  2023-6-29.c
+D:\Cxiangmu\初始C语言54\初始C语言54\2023-6-29.c(31,9): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\Cxiangmu\初始C语言54\初始C语言54\2023-6-29.c(41,16): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\Cxiangmu\初始C语言54\初始C语言54\2023-6-29.c(41,19): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\Cxiangmu\初始C语言54\初始C语言54\2023-6-29.c(43,12): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\Cxiangmu\初始C语言54\初始C语言54\2023-6-29.c(43,15): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  初始C语言54.vcxproj -> D:\Cxiangmu\初始C语言54\x64\Debug\初始C语言54.exe
