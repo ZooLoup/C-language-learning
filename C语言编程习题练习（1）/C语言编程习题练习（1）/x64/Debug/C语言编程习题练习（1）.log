@@ -1,0 +1,4 @@
+﻿  2023-7-17.c
+D:\Program Files\C project\C语言编程习题练习（1）\C语言编程习题练习（1）\2023-7-17.c(33,7): warning C4013: “sqrt”未定义；假设外部返回 int
+D:\Program Files\C project\C语言编程习题练习（1）\C语言编程习题练习（1）\2023-7-17.c(33,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  C语言编程习题练习（1）.vcxproj -> D:\Program Files\C project\C语言编程习题练习（1）\x64\Debug\C语言编程习题练习（1）.exe
