@@ -1,0 +1,4 @@
+﻿  2023-8-2.c
+D:\Program Files\C project\C语言习题16\C语言习题16\2023-8-2.c(29,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Program Files\C project\C语言习题16\C语言习题16\2023-8-2.c(30,6): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  C语言习题16.vcxproj -> D:\Program Files\C project\C语言习题16\x64\Debug\C语言习题16.exe
