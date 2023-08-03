@@ -1,0 +1,3 @@
+﻿  2023-8-3.c
+D:\Program Files\C project\C语言习题17\C语言习题17\2023-8-3.c(28,2): warning C4013: “gets”未定义；假设外部返回 int
+  C语言习题17.vcxproj -> D:\Program Files\C project\C语言习题17\x64\Debug\C语言习题17.exe
