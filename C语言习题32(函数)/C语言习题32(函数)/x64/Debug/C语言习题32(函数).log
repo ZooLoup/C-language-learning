@@ -1,0 +1,5 @@
+﻿  2023-8-20.c
+D:\Program Files\C project\C语言习题32(函数)\C语言习题32(函数)\2023-8-20.c(151,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Program Files\C project\C语言习题32(函数)\C语言习题32(函数)\2023-8-20.c(151,11): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\Program Files\C project\C语言习题32(函数)\C语言习题32(函数)\2023-8-20.c(151,11): message : 缺失的可变参数 1 为格式字符串“%2.f”所需
+  C语言习题32(函数).vcxproj -> D:\Program Files\C project\C语言习题32(函数)\x64\Debug\C语言习题32(函数).exe
