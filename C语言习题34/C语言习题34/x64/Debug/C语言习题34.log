@@ -1,0 +1,4 @@
+﻿  2023-8-23.c
+D:\Program Files\C project\C语言习题34\C语言习题34\2023-8-23.c(36,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Program Files\C project\C语言习题34\C语言习题34\2023-8-23.c(54,8): warning C4047: “=”:“char *”与“char”的间接级别不同
+  C语言习题34.vcxproj -> D:\Program Files\C project\C语言习题34\x64\Debug\C语言习题34.exe
