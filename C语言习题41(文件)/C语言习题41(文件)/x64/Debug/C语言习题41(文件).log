@@ -1,0 +1,12 @@
+﻿  2023-8-30.c
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(63,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(85,10): warning C4098: “Input_data”:“void”函数返回值
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(118,10): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 3 拥有了类型“char *”
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(118,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“double”
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(118,10): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 5 拥有了类型“int”
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(118,97): warning C4474: printf: 格式字符串中传递的参数太多
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(118,97): message : 占位符和其参数预计 5 可变参数，但提供的却是 6 参数
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(91,18): warning C4101: “fname1”: 未引用的局部变量
+D:\Program Files\C project\C语言习题41(文件)\C语言习题41(文件)\2023-8-30.c(124,2): warning C4013: “input_Data”未定义；假设外部返回 int
+2023-8-30.obj : error LNK2019: 无法解析的外部符号 input_Data，函数 main 中引用了该符号
+D:\Program Files\C project\C语言习题41(文件)\x64\Debug\C语言习题41(文件).exe : fatal error LNK1120: 1 个无法解析的外部命令
