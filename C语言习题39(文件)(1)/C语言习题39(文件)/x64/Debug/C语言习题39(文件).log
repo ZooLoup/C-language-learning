@@ -1,0 +1,4 @@
+﻿  2023-8-28.c
+D:\Program Files\C project\C语言习题39(文件)\C语言习题39(文件)\2023-8-28.c(36,2): warning C4013: “fscant”未定义；假设外部返回 int
+2023-8-28.obj : error LNK2019: 无法解析的外部符号 fscant，函数 main 中引用了该符号
+D:\Program Files\C project\C语言习题39(文件)\x64\Debug\C语言习题39(文件).exe : fatal error LNK1120: 1 个无法解析的外部命令
