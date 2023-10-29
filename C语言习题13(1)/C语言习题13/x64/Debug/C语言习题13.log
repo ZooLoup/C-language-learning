@@ -1,0 +1,4 @@
+﻿  2023-7-30.c
+D:\Program Files\C project\C语言习题13\C语言习题13\2023-7-30.c(69,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Program Files\C project\C语言习题13\C语言习题13\2023-7-30.c(70,11): warning C4013: “strlen”未定义；假设外部返回 int
+  C语言习题13.vcxproj -> D:\Program Files\C project\C语言习题13\x64\Debug\C语言习题13.exe
