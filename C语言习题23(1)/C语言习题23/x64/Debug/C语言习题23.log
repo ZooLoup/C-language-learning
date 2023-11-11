@@ -1,0 +1,23 @@
+﻿  2023-8-10.c
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%lld”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%Id”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%I64d”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%lld”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%Id”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(32,8): message : 请考虑在格式字符串中使用“%I64d”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(33,13): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(33,16): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(34,13): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(34,16): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%lld”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%Id”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%lld”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%Id”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(35,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\Program Files\C project\C语言习题23\C语言习题23\2023-8-10.c(25): warning C4715: “flcd”: 不是所有的控件路径都返回值
+  C语言习题23.vcxproj -> D:\Program Files\C project\C语言习题23\x64\Debug\C语言习题23.exe
