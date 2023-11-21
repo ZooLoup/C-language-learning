@@ -1,0 +1,9 @@
+﻿  2023-11-21.c
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(86,19): warning C4047: “>”:“int [30]”与“int”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(88,7): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(89,12): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(91,19): warning C4047: “>”:“int [30]”与“int”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(93,7): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(94,12): warning C4047: “=”:“int”与“int *”的间接级别不同
+D:\Program Files\C project\编写习题(2)\编写习题(2)\2023-11-21.c(77,9): warning C4101: “j”: 未引用的局部变量
+  编写习题(2).vcxproj -> D:\Program Files\C project\编写习题(2)\x64\Debug\编写习题(2).exe
