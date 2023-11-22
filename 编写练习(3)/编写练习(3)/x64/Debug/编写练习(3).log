@@ -1,0 +1,9 @@
+﻿  2023-11-22.c
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(66,2): warning C4013: “input”未定义；假设外部返回 int
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(67,8): warning C4013: “qmin”未定义；假设外部返回 int
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(68,2): warning C4013: “output”未定义；假设外部返回 int
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(65,6): warning C4101: “i”: 未引用的局部变量
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(76): warning C4716: “input”: 必须返回一个值
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(87): warning C4715: “qmin”: 不是所有的控件路径都返回值
+D:\Program Files\C project\编写练习(3)\编写练习(3)\2023-11-22.c(96): warning C4716: “output”: 必须返回一个值
+  编写练习(3).vcxproj -> D:\Program Files\C project\编写练习(3)\x64\Debug\编写练习(3).exe
