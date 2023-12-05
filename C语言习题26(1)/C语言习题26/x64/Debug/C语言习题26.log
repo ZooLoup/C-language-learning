@@ -1,0 +1,4 @@
+﻿  2023-8-13.c
+D:\Program Files\C project\C语言习题26\C语言习题26\2023-8-13.c(53,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\Program Files\C project\C语言习题26\C语言习题26\2023-8-13.c(46): warning C4716: “convert”: 必须返回一个值
+  C语言习题26.vcxproj -> D:\Program Files\C project\C语言习题26\x64\Debug\C语言习题26.exe
