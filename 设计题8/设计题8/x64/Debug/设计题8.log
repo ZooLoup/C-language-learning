@@ -1,0 +1,3 @@
+﻿  2024-3-15.c
+D:\Program Files\C project\设计题8\设计题8\2024-3-15.c(404,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  设计题8.vcxproj -> D:\Program Files\C project\设计题8\x64\Debug\设计题8.exe
