@@ -1,0 +1,7 @@
+﻿  2023-3-14.c
+D:\Program Files\C project\设计题7\设计题7\2023-3-14.c(274,2): warning C4047: “return”:“int”与“student *”的间接级别不同
+D:\Program Files\C project\设计题7\设计题7\2023-3-14.c(281,69): warning C4474: printf: 格式字符串中传递的参数太多
+  D:\Program Files\C project\设计题7\设计题7\2023-3-14.c(281,69):
+  占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  
+  设计题7.vcxproj -> D:\Program Files\C project\设计题7\x64\Debug\设计题7.exe
